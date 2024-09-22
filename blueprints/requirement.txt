@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-PyMongo==2.3.0
+python-dotenv==1.0.0
+twilio==7.18.0
+pandas==1.5.3
+requests==2.31.0
+pytz==2023.3
+Werkzeug==2.3.4
